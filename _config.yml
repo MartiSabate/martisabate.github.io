@@ -11,16 +11,25 @@ url: "https://martisabate.github.io"
 # NB! Without this *nothing* will work, because it's used in every path :)
 baseurl: /
 # Google tracking id
-google-tracking-id: "UA-XXXXXXXX-X"
+google-tracking-id: "G-0RLHHTXXR9"
 #############
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
+author: "Martí Sabaté"
+title: "{ Martí Sabaté }"
 description: 
-  "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+  "Hacking articles by Martí Sabaté"
+keywords: "marti, sabate, personal, jekyll, theme, red team, hacking, pentesting, cybersecurity, malware analysis, exploit development, vulnerability assessment, network security, ethical hacking,
+ information security, web application testing, intrusion detection, security architecture, blue team, cyber defense, phishing, social engineering, encryption, digital forensics, incident response
+, SIEM, firewall, IDS, IPS, security policies, risk management, compliance, GDPR, cloud security, mobile security, IoT security, blockchain security, artificial intelligence in security, machine l
+earning for security, penetration test tools, Metasploit, Burp Suite, OWASP, Kali Linux, cybersecurity trends, cybersecurity training, cyber law, privacy, data protection, VPN, zero trust, endpoin
+t security, security operations center (SOC), cyber threat intelligence, hacking techniques, script kiddies, white hat, black hat, gray hat, security conference, CTF competitions, bug bounty, patc
+h management, reverse engineering, cyber warfare, cyber espionage, secure coding, secure development lifecycle, security frameworks, ISO 27001, NIST, cybersecurity startups, cybersecurity innovati
+on, cybersecurity awareness, phishing simulations, cybersecurity jobs, cybersecurity certifications, CISSP, CEH, OSCP, security audit, wireless security, database security, secure file transfer, r
+ansomware, botnet, DDoS attacks, antivirus, sandboxing, threat modeling, security best practices, cyber insurance, quantum cryptography, secure messaging, identity and access management (IAM), bio
+metric security, smart contract security, cyber resilience, security automation, DevSecOps, secure infrastructure, cybersecurity policy, ethical guidelines in cybersecurity, cybersecurity ethics, 
+digital identity"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
@@ -38,13 +47,15 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-me-img: "/img/jetpacktocat.png"
+  - text: "Thanks for visiting my cave"
+  - text: "Everything is <span style='font-style: italic;'>Open-Source</span> as long as you can apply reverse engineering to it."
+  - text: "In a sea of code, <em>I navigate the vulnerabilities.</em>"
+  - text: "<code>while(true)</code> { <i>seek</i> vulnerabilities; <i>enhance</i> security; }"
+# me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+me-img: "https://github.com/martisabate.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -72,36 +83,45 @@ icon-192p: "/img/web-app/icon-192p.png"
 ########
 # Blog #
 ########
-post-preview-words: 96
-paginate: 8
+post-preview-words: 20
+paginate: 10
 email-share: True
-fb-share: True
-twitter-share: True
+fb-share: False
+twitter-share: False
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-disqus-shortname: "personal-jekyll-theme"
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
+#disqus-shortname: "martsabatefbregas"
 syntax-highlight: True
 ############
 # Timeline #
 ############
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/webhelpLogo.png"
+    date: "November 2022 - April 2024"
+    description: "[JOB] - L2 Technical Support Engineer externalized from Google assisting on Google Workspace products - Account Recovery and Security shard"
+  - image: "/img/timeline/claranet.png"
+    date: "January 2022 - November 2023"
+    description: "[JOB] - L1 SOC IT Operation Support Agent"
+  - image: "/img/timeline/fit.png"
+    date: "September 2021 - January 2022"
+    description: "[JOB] - Apprentice"
+  - image: "/img/timeline/codelearn.jpeg"
+    date: "May 2021 - September 2021"
+    description: "[JOB] - Teaching programming to children and teenagers aged 5 to 18 as part of their extracurricular"
+  - image: "/img/timeline/itb.jpg"
+    date: "September 2020 - June 2022"
+    description: "[HIGHER DEGREE] - COMPUTER SYSTEMS ADMINISTRATION AND NETWORKS, PROFESSIONAL PROFILE IN CYBERSECURIT"
 # First image of the Timeline
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/marti.jpeg"
 ###########
 # Contact #
 ###########
-email: "your@email.here"
+email: "msabp79@gmail.com"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 ################
@@ -113,25 +133,22 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: 
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional 
-  engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+  "Thanks for reading my post ^^. This is Martí, from Barcelona. I like to contribute in cybersecurity projects, break things and rebuild them better than they were, just for security purposes."
+author_blurb_image: "/img/shield.png"
 ##################
 # Social Buttons #
 ##################
 social:
   - title: "github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
+    url: "https://github.com/MartiSabate"
   - title: "linkedin-in"
-    url: "https://www.linkedin.com"
-  - title: "x-twitter"
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/mart%C3%AD-sabat%C3%A9-f%C3%A0bregas-729b31179/"
   - title: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+    url: "https://martisabate.github.io/feed.xml"
 ############
 # 404 page #
 ############
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/python404.png"
 ################################################################################
 
 # NB! Tread carefully if you want to change the variables below this point!
