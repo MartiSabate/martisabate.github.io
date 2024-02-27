@@ -95,7 +95,7 @@ tumblr-share: False
 pinterest-share: False
 pocket-share: False
 vkontakte-share: False
-#disqus-shortname: "martsabatefbregas"
+disqus-shortname: "martsabatefbregas"
 syntax-highlight: True
 ############
 # Timeline #
