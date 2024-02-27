@@ -30,11 +30,11 @@ on, cybersecurity awareness, phishing simulations, cybersecurity jobs, cybersecu
 ansomware, botnet, DDoS attacks, antivirus, sandboxing, threat modeling, security best practices, cyber insurance, quantum cryptography, secure messaging, identity and access management (IAM), bio
 metric security, smart contract security, cyber resilience, security automation, DevSecOps, secure infrastructure, cybersecurity policy, ethical guidelines in cybersecurity, cybersecurity ethics, 
 digital identity"
-favicon: "/img/favicon.ico"
+favicon: "/img/icon.ico"
 ################
 # Header layout #
 ################
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/icon.ico"
 background-img: "../img/intro-bg.jpg"
 ##############################
 # Dynamic Text on the Header #
