@@ -134,7 +134,7 @@ pgp: False
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: 
   "Thanks for reading my post ^^. This is Martí, from Barcelona. I like to contribute in cybersecurity projects, break things and rebuild them better than they were, just for security purposes."
-author_blurb_image: "/img/shield.png"
+author_blurb_image: "/img/marti.png"
 ##################
 # Social Buttons #
 ##################
