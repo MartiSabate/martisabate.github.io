@@ -35,7 +35,7 @@ favicon: "/img/shield16.ico"
 # Header layout #
 ################
 black-favicon: "/img/shield32.ico"
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/cat-bg.jpg"
 ##############################
 # Dynamic Text on the Header #
 ##############################
