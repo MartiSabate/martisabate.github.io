@@ -101,7 +101,7 @@ syntax-highlight: True
 # Timeline #
 ############
 events:
-  - image: "/ima/timeline/wc.jpeg"
+  - image: "/img/timeline/wc.jpeg"
     date:  "April 2024 - August 2024"
     description: "[JOB] - Technical Support Representative externalized. Premium support offered, specialized on serverless, storage and database Google Cloud Platform products"
   - image: "/img/timeline/webhelpLogo.png"
