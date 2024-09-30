@@ -9,7 +9,7 @@ url: "https://martisabate.github.io"
 # then add in the baseurl here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-baseurl: "127.0.0.1:4000"
+baseurl: /
 # Google tracking id
 google-tracking-id: "G-0RLHHTXXR9"
 #############
