@@ -19,7 +19,7 @@ lang: "en"
 author: "Martí Sabaté"
 title: "{ Martí Sabaté }"
 description: 
-  "Hacking articles by Martí Sabaté"
+  "Martí Sabaté Portfolio"
 keywords: "marti, sabate, personal, jekyll, theme, red team, hacking, pentesting, cybersecurity, malware analysis, exploit development, vulnerability assessment, network security, ethical hacking,
  information security, web application testing, intrusion detection, security architecture, blue team, cyber defense, phishing, social engineering, encryption, digital forensics, incident response
 , SIEM, firewall, IDS, IPS, security policies, risk management, compliance, GDPR, cloud security, mobile security, IoT security, blockchain security, artificial intelligence in security, machine l
@@ -51,6 +51,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Everything is <span style='font-style: italic;'>Open-Source</span> as long as you can apply reverse engineering to it."
   - text: "In a sea of code, <em>I navigate the vulnerabilities.</em>"
   - text: "<code>while(true)</code> { <i>seek</i> vulnerabilities; <i>enhance</i> security; }"
+  - text: "If we do something, we do it well: with excellence and quality; Otherwise, it is better not to do it."
 # me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -136,7 +137,7 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: 
-  "Thanks for reading my post ^^. This is Martí, from Barcelona. I like to contribute in cybersecurity projects, break things and rebuild them better than they were, just for security purposes."
+  "Thanks for reading my post ^^. This is Martí, from Barcelona."
 author_blurb_image: "/img/marti.png"
 ##################
 # Social Buttons #
@@ -145,7 +146,7 @@ social:
   - title: "github"
     url: "https://github.com/MartiSabate"
   - title: "linkedin-in"
-    url: "https://www.linkedin.com/in/mart%C3%AD-sabat%C3%A9-f%C3%A0bregas-729b31179/"
+    url: "https://www.linkedin.com/in/marti-sabate-fabregas/"
   - title: "rss"
     url: "https://martisabate.github.io/feed.xml"
 ############
