@@ -16,18 +16,18 @@ This is a lab where I install in an Ubuntu machine a Splunk SIEM, Splunk Univers
 
 To install Splunk and Splunk Forwarder an account is required to be created in https://splunk.com. I have downloaded Splunk Enterprise https://www.splunk.com/en_us/download/splunk-enterprise.html deb file, and installed it through dpkg:
 
-- sudo dpkg -i splunk-9.5.0-6b4ebe426ca6-linux-amd64.deb
+`sudo dpkg -i splunk-9.5.0-6b4ebe426ca6-linux-amd64.deb`
 
 Same procedure for the forwarder
 
-- sudo dpkg -i splunkforwarder-9.5.0-6b4ebe426ca6-linux-amd64.deb
+`sudo dpkg -i splunkforwarder-9.5.0-6b4ebe426ca6-linux-amd64.deb`
 
 
-![](../../../../splunkSiemImages/IMG1)
+![](/img/splunkSiemImages/IMG1)
 
 Once both are installed, first, splunk should be started through the following command:
 
-- sudo /opt/splunk/bin/splunk start 
+`sudo /opt/splunk/bin/splunk start`
 
 This will require accepting the terms, and creating an administrator user with a password. Then the web server will be available on http://127.0.0.1:8000
 
