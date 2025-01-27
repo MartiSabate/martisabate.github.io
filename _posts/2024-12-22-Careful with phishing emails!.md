@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Stop opening malicious emails!
-category: Category
+category: SOC
 tags: [ "cybersecurity" ]
 ---
 
