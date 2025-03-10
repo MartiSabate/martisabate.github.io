@@ -112,7 +112,7 @@ Once created, I select the tab and modify the event search, by crafting an SPL q
 ![](/img/splunkSiemImages/IMG11.png)
 
 
-So now if if I send a request that contains any of the specified characters, the it will be shown in this dashboard:
+So now if I send a request that contains any of the specified characters, the it will be shown in this dashboard:
 
 ![](/img/splunkSiemImages/IMG12.png)
 
