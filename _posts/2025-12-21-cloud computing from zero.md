@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Cloud Computing From Zero to Secure recommendations
 category: Cloud
-tags: [ "cloud", "basics" ]
+tags: [ "cloud" ]
 ---
 
 # Introduction
