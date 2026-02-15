@@ -6,18 +6,6 @@ category: Cybersecurity
 tags: [ "Cybersecurity"]
 ---
 
-###### 🏠  [[Blogging de alto nivel]]
-> Tags #BloggingAltoNivel
-> - Creation Date: 2025-12-15 23:28
-```table-of-contents
-title: Table of contents
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
----
 
 # Metasploit Framework
 
